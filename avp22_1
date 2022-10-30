@@ -1,4 +1,4 @@
-//基本类型重定向
+[ { //基本类型重定向
 setup bool = Bool
 setup int = Int
 setup float = Float
@@ -2861,5 +2861,4 @@ variable DeleteElementFromArray : List = 1054 { #过时/删除数组元素
 	@Tip = 数组索引值，索引从0开始计算
     Index : int #索引
 }
-
-[ { "t":"Hello", "m":"1.93.9", "n":"Cập Nhật Ngay", "h":"https://youtu.be/jVDxRCy5VWQ", "y":"https://youtube.com/channel/UCLOngYXnuWV7nKLZDNsXabg", "tg":"https://t.me/+I9gfGHWJ6zIwNGNl", "yg":"https://youtube.com/channel/UCLOngYXnuWV7nKLZDNsXabg", "zg":"https://zalo.me/g/iwgtpy013", "t1":"ÂN VIP PRO SERIES", "t2":"Vui Lòng Đăng Ký Kênh YouTube Hoặc Join TeleGram Để Sử Dụng AVP Series 22", "t3":"JOIN TELEGRAM", "t4":"ĐĂNG KÝ KÊNH", "a":"ADMIN SUPPORT", "b":"ÂN VIP PRO MTG", "c":"MODDER IN VIETNAM", "d":"22 SERIES", "e":"FREE FIRE 1.93.9", "f":"HẾT HẠN KHI RA V23", "v":"'" } ]
+"t":"Hello", "m":"1.93.9", "n":"Cập Nhật Ngay", "h":"https://youtu.be/jVDxRCy5VWQ", "y":"https://youtube.com/channel/UCLOngYXnuWV7nKLZDNsXabg", "tg":"https://t.me/+I9gfGHWJ6zIwNGNl", "yg":"https://youtube.com/channel/UCLOngYXnuWV7nKLZDNsXabg", "zg":"https://zalo.me/g/iwgtpy013", "t1":"ÂN VIP PRO SERIES", "t2":"Vui Lòng Đăng Ký Kênh YouTube Hoặc Join TeleGram Để Sử Dụng AVP Series 22", "t3":"JOIN TELEGRAM", "t4":"ĐĂNG KÝ KÊNH", "a":"ADMIN SUPPORT", "b":"ÂN VIP PRO MTG", "c":"MODDER IN VIETNAM", "d":"22 SERIES", "e":"FREE FIRE 1.93.9", "f":"HẾT HẠN KHI RA V23", "v":"'" } ]
